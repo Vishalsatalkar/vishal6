@@ -1,6 +1,6 @@
 # Define two numbers
 num1 = 15
-num2 = 5
+num2 = 35
 
 # Perform sum and subtraction
 result_sum = num1 + num2
